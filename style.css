@@ -372,7 +372,8 @@ section#last{
     }
     .grid-system{
         position: relative;
-        overflow-x: hidden;
+        /*overflow-x: hidden;*/
+        overflow-x: scroll;
     }
     .padding-top{
         overflow-x: hidden;
